@@ -1,0 +1,3 @@
+int -> long (an integer but with more space)
+float -> double (an float but with more space, good with you want to be really precise on a number)
+char (individual character, h or 9 for exemple)

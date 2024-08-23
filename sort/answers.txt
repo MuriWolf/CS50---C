@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: When the data is random, it took 6 seconds, but when it was sorted, just 600ms. The only algorithm that has a big difference on the worst and best case, is the bubble algorithm. O(n^2) and Omega(n).
+
+sort2 uses: merge sort
+
+How do you know?: It has the best time and the 'worst' and best (already sorted) cases are pretty much the same. Plus, I already figure out the other two sorts, and since it has only three options, only one is left.
+
+sort3 uses: selection sort
+
+How do you know?: The time on best case and worst case are pretty much the same, both 2 and half seconds. So that means that it has the same runtime for both cases. Since I already know that sort1 is the bubble sort, just remains merge and selection. I know that the sort2 has the best runtime, next to 2 seconds less comparing to this one (sort3), so, I come to conclusion that the only possible option given the choices are the selection sort.
